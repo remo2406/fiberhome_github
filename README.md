@@ -7,5 +7,4 @@ Utilize the app.py to run the server localy and test the methods present in the 
 
 The comments and documentation are in Portuguese, but in case of doubts you can comment.
 
-Soon I'll make available a Telegram bot integrated with this repository to let you right in the front door to become get your 
-internet provider automated!
+The repository for Telegram Bot to help you even more automate your ONU provision can be acessed in: https://github.com/remo2406/FHTelegramBot
