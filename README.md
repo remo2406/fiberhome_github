@@ -1,10 +1,9 @@
-Hello! 
+Hello!
 
-This repository is available to help your internet provider, using Fiberhome UNM/ANM system, to initialize the automation of provision 
-and information consults of ONUs/ONTs by your technicians.
+This repository is designed to assist your internet provider, using the Fiberhome UNM/ANM system, in automating the provisioning and information queries for ONUs/ONTs by your technicians.
 
-Utilize the app.py to run the server localy and test the methods present in the Fiberhome.py code.
+Use the app.py file to run the server locally and test the methods available in the Fiberhome.py code.
 
-The comments and documentation are in Portuguese, but in case of doubts you can comment.
+The comments and documentation are in Portuguese, but if you have any questions, feel free to ask.
 
-The repository for Telegram Bot to help you even more automate your ONU provision can be acessed in: https://github.com/remo2406/FHTelegramBot
+You can access the repository for the Telegram Bot, which can further help automate your ONU provisioning, at: https://github.com/remo2406/FHTelegramBot
